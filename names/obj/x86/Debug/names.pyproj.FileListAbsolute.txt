@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\names.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\names.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\names.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\obj\x86\Debug\names.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\obj\x86\Debug\names.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\obj\x86\Debug\names.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\names\obj\x86\Debug\names.exe
