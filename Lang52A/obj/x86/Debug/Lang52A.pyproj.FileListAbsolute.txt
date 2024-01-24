@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Lang52A.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Lang52A.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Lang52A.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\obj\x86\Debug\Lang52A.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\obj\x86\Debug\Lang52A.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\obj\x86\Debug\Lang52A.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Lang52A\obj\x86\Debug\Lang52A.exe
