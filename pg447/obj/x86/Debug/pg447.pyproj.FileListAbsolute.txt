@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\pg447.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\pg447.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\pg447.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\obj\x86\Debug\pg447.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\obj\x86\Debug\pg447.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\obj\x86\Debug\pg447.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg447\obj\x86\Debug\pg447.exe

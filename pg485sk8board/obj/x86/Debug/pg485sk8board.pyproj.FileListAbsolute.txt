@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\obj\x86\Debug\pg485sk8board.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\obj\x86\Debug\pg485sk8board.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\obj\x86\Debug\pg485sk8board.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\pg485sk8board.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\pg485sk8board.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\pg485sk8board.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485sk8board\obj\x86\Debug\pg485sk8board.exe

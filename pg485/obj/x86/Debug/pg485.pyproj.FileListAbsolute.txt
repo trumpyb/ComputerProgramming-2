@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\pg485.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\pg485.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\pg485.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\obj\x86\Debug\pg485.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\obj\x86\Debug\pg485.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\obj\x86\Debug\pg485.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg485\obj\x86\Debug\pg485.exe
