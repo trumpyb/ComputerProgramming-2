@@ -1,0 +1,14 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\pg272Calls.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\pg272Calls.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\pg272Calls.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\obj\x86\Debug\pg272Calls.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\obj\x86\Debug\pg272Calls.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\obj\x86\Debug\pg272Calls.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg272Calls\obj\x86\Debug\pg272Calls.exe

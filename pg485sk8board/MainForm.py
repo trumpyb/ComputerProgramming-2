@@ -180,6 +180,17 @@ class MainForm(Form):
 		num += [35,40,45][WidthIndex]
 		num += [20,22,24,28][ColorIndex]
 		
+		if self._GripTape.Checked:
+			num += 10
+		if self._Bearing.Checked:
+			num += 30
+		if self._Riser.Checked:
+			num += 2
+		if self._nuts.Checked:
+			num += 3
+		if self._Assembly.Checked:
+			num += 10
+		
 		self._label5.Text = "It will cost $"+str(num)
 		
 
