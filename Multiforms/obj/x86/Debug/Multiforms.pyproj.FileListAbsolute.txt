@@ -1,0 +1,4 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Multiforms\obj\x86\Debug\Multiforms.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Multiforms\obj\x86\Debug\Multiforms.Form1.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Multiforms\obj\x86\Debug\Multiforms.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\Multiforms\obj\x86\Debug\Multiforms.pyproj.GenerateResource.Cache
