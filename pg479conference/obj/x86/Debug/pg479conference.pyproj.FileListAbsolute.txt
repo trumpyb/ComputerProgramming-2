@@ -1,0 +1,15 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\pg479conference.exe.config
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\pg479conference.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\pg479conference.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\IronPython.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\IronPython.Modules.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\Microsoft.Scripting.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\IronPython.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\bin\Debug\IronPython.Modules.xml
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\obj\x86\Debug\pg479conference.pyprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\obj\x86\Debug\pg479conference.Form1.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\obj\x86\Debug\pg479conference.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\obj\x86\Debug\pg479conference.pyproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\pg479conference\obj\x86\Debug\pg479conference.exe
