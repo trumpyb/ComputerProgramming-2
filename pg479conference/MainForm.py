@@ -202,6 +202,7 @@ class MainForm(Form):
 		self._btnSelect.TabIndex = 3
 		self._btnSelect.Text = "&Select Conference Options"
 		self._btnSelect.UseVisualStyleBackColor = True
+		self._btnSelect.Click += self.BtnSelectClick
 		# 
 		# btnReset
 		# 
@@ -253,3 +254,8 @@ class MainForm(Form):
 		self._txtEmail.Text = ""
 		self._txtState.Text = ""
 		self._txtZip.Text = ""
+
+	def BtnSelectClick(self, sender, e):
+		from Form1 import *
+		form1 = Form1(self)
+		form1.Show()
