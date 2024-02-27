@@ -93,6 +93,7 @@ class Form1(Form):
 		self._btnClose.TabIndex = 3
 		self._btnClose.Text = "Close"
 		self._btnClose.UseVisualStyleBackColor = True
+		self._btnClose.Click += self.BtnCloseClick
 		# 
 		# Form1
 		# 
@@ -111,3 +112,20 @@ class Form1(Form):
 	def BtnResetClick(self, sender, e):
 		self._cbxRegister.Checked = False
 		self._cbxKeynote.Checked = False
+
+	def BtnCloseClick(self, sender, e):
+		sum = 0
+		if cbxRegister.isChecked():
+			sum += 895
+		if cbxKeynote.isChecked():
+			sum += 30
+			
+		prices = [295, 295, 395, 395]
+		
+		index = mbxWorkshop.selectedIndex()
+		
+		sum += prices[index]
+		
+		from MainForm import *
+		Main = MainForm(self, sum)
+		self.Hide()
