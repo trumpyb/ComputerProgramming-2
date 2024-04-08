@@ -1,0 +1,15 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\FavClub.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\FavClub.deps.json
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\FavClub.runtimeconfig.json
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\FavClub.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\ref\FavClub.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\bin\Debug\net6.0\FavClub.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.csproj.AssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.AssemblyInfoInputs.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.AssemblyInfo.cs
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.csproj.CoreCompileInputs.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\ref\FavClub.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\FavClub\obj\Debug\net6.0\FavClub.genruntimeconfig.cache

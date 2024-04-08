@@ -1,0 +1,15 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\Helloname.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\Helloname.deps.json
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\Helloname.runtimeconfig.json
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\Helloname.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\ref\Helloname.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\bin\Debug\net6.0\Helloname.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.csproj.AssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.AssemblyInfoInputs.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.AssemblyInfo.cs
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.csproj.CoreCompileInputs.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\ref\Helloname.dll
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Helloname\obj\Debug\net6.0\Helloname.genruntimeconfig.cache

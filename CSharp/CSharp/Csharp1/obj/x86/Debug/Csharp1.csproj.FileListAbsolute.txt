@@ -1,0 +1,7 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\bin\Debug\Csharp1.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\bin\Debug\Csharp1.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\obj\x86\Debug\Csharp1.csprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\obj\x86\Debug\Csharp1.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\obj\x86\Debug\Csharp1.csproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\obj\x86\Debug\Csharp1.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\CSharp\Csharp1\obj\x86\Debug\Csharp1.pdb

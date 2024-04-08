@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trumpy.b\\Documents\\GitHub\\ComputerProgramming-2\\CSharp\\CSharp\\Helloname\\Helloname.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trumpy.b\\Documents\\GitHub\\ComputerProgramming-2\\CSharp\\CSharp\\Helloname\\Helloname.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trumpy.b\\Documents\\GitHub\\ComputerProgramming-2\\CSharp\\CSharp\\Helloname\\Helloname.csproj",
+        "projectName": "Helloname",
+        "projectPath": "C:\\Users\\trumpy.b\\Documents\\GitHub\\ComputerProgramming-2\\CSharp\\CSharp\\Helloname\\Helloname.csproj",
+        "packagesPath": "C:\\Users\\trumpy.b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trumpy.b\\Documents\\GitHub\\ComputerProgramming-2\\CSharp\\CSharp\\Helloname\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trumpy.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://go.microsoft.com/fwlink/?LinkID=206669": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

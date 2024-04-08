@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9317650-0d07-4d58-bd28-4e116ac31fd2": {
+      "ProjectGuid": "d9317650-0d07-4d58-bd28-4e116ac31fd2",
+      "DisplayName": "Helloname",
+      "ColorIndex": 0
+    },
+    "5fe9621c-fcce-46ff-9ba7-d99b16d5d834": {
+      "ProjectGuid": "5fe9621c-fcce-46ff-9ba7-d99b16d5d834",
+      "DisplayName": "FavClub",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
