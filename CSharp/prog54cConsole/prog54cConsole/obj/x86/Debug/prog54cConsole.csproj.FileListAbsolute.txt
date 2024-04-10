@@ -1,0 +1,5 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54cConsole\prog54cConsole\obj\x86\Debug\prog54cConsole.csprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54cConsole\prog54cConsole\bin\Debug\prog54cConsole.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54cConsole\prog54cConsole\bin\Debug\prog54cConsole.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54cConsole\prog54cConsole\obj\x86\Debug\prog54cConsole.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54cConsole\prog54cConsole\obj\x86\Debug\prog54cConsole.pdb
