@@ -1,0 +1,7 @@
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\obj\x86\Debug\prog54a.csprojResolveAssemblyReference.cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\obj\x86\Debug\prog54a.MainForm.resources
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\obj\x86\Debug\prog54a.csproj.GenerateResource.Cache
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\bin\Debug\prog54a.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\bin\Debug\prog54a.pdb
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\obj\x86\Debug\prog54a.exe
+C:\Users\trumpy.b\Documents\GitHub\ComputerProgramming-2\CSharp\prog54a\prog54a\obj\x86\Debug\prog54a.pdb
